@@ -17,3 +17,8 @@
 ![image](https://user-images.githubusercontent.com/61173924/195562601-5d017736-f115-436d-9bff-227366983987.png)
 
 간단한 심리테스트 앱으로 Jetpack Navigation을 통한 Fragment 전환과 Binding 및 Bundle을 통한 데이터 전달 공부.
+
+#### AVD Output
+
+![image](https://user-images.githubusercontent.com/61173924/195569187-4fc965e3-f206-429d-bb56-46713ec4fced.png)
+
